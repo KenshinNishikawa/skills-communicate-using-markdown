@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [] do a thing I have to do
+- [] clean my room
+- [] finally study AI
